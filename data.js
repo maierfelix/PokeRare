@@ -1,0 +1,454 @@
+module.exports = [{
+  id: 1,
+  rarity: 45
+}, {
+  id: 2,
+  rarity: 45
+}, {
+  id: 3,
+  rarity: 45
+}, {
+  id: 4,
+  rarity: 45
+}, {
+  id: 5,
+  rarity: 45
+}, {
+  id: 6,
+  rarity: 45
+}, {
+  id: 7,
+  rarity: 45
+}, {
+  id: 8,
+  rarity: 45
+}, {
+  id: 9,
+  rarity: 45
+}, {
+  id: 10,
+  rarity: 255
+}, {
+  id: 11,
+  rarity: 120
+}, {
+  id: 12,
+  rarity: 45
+}, {
+  id: 13,
+  rarity: 255
+}, {
+  id: 14,
+  rarity: 120
+}, {
+  id: 15,
+  rarity: 45
+}, {
+  id: 16,
+  rarity: 255
+}, {
+  id: 17,
+  rarity: 120
+}, {
+  id: 18,
+  rarity: 45
+}, {
+  id: 19,
+  rarity: 255
+}, {
+  id: 20,
+  rarity: 127
+}, {
+  id: 21,
+  rarity: 255
+}, {
+  id: 22,
+  rarity: 90
+}, {
+  id: 23,
+  rarity: 255
+}, {
+  id: 24,
+  rarity: 90
+}, {
+  id: 25,
+  rarity: 190
+}, {
+  id: 26,
+  rarity: 75
+}, {
+  id: 27,
+  rarity: 255
+}, {
+  id: 28,
+  rarity: 90
+}, {
+  id: 29,
+  rarity: 235
+}, {
+  id: 30,
+  rarity: 120
+}, {
+  id: 31,
+  rarity: 45
+}, {
+  id: 32,
+  rarity: 235
+}, {
+  id: 33,
+  rarity: 120
+}, {
+  id: 34,
+  rarity: 45
+}, {
+  id: 35,
+  rarity: 150
+}, {
+  id: 36,
+  rarity: 25
+}, {
+  id: 37,
+  rarity: 190
+}, {
+  id: 38,
+  rarity: 75
+}, {
+  id: 39,
+  rarity: 170
+}, {
+  id: 40,
+  rarity: 50
+}, {
+  id: 41,
+  rarity: 255
+}, {
+  id: 42,
+  rarity: 90
+}, {
+  id: 43,
+  rarity: 255
+}, {
+  id: 44,
+  rarity: 120
+}, {
+  id: 45,
+  rarity: 45
+}, {
+  id: 46,
+  rarity: 190
+}, {
+  id: 47,
+  rarity: 75
+}, {
+  id: 48,
+  rarity: 190
+}, {
+  id: 49,
+  rarity: 75
+}, {
+  id: 50,
+  rarity: 255
+}, {
+  id: 51,
+  rarity: 50
+}, {
+  id: 52,
+  rarity: 255
+}, {
+  id: 53,
+  rarity: 90
+}, {
+  id: 54,
+  rarity: 190
+}, {
+  id: 55,
+  rarity: 75
+}, {
+  id: 56,
+  rarity: 190
+}, {
+  id: 57,
+  rarity: 75
+}, {
+  id: 58,
+  rarity: 190
+}, {
+  id: 59,
+  rarity: 75
+}, {
+  id: 60,
+  rarity: 255
+}, {
+  id: 61,
+  rarity: 120
+}, {
+  id: 62,
+  rarity: 45
+}, {
+  id: 63,
+  rarity: 200
+}, {
+  id: 64,
+  rarity: 100
+}, {
+  id: 65,
+  rarity: 50
+}, {
+  id: 66,
+  rarity: 180
+}, {
+  id: 67,
+  rarity: 90
+}, {
+  id: 68,
+  rarity: 45
+}, {
+  id: 69,
+  rarity: 255
+}, {
+  id: 70,
+  rarity: 120
+}, {
+  id: 71,
+  rarity: 45
+}, {
+  id: 72,
+  rarity: 190
+}, {
+  id: 73,
+  rarity: 60
+}, {
+  id: 74,
+  rarity: 255
+}, {
+  id: 75,
+  rarity: 120
+}, {
+  id: 76,
+  rarity: 45
+}, {
+  id: 77,
+  rarity: 190
+}, {
+  id: 78,
+  rarity: 60
+}, {
+  id: 79,
+  rarity: 190
+}, {
+  id: 80,
+  rarity: 75
+}, {
+  id: 81,
+  rarity: 190
+}, {
+  id: 82,
+  rarity: 60
+}, {
+  id: 83,
+  rarity: 45
+}, {
+  id: 84,
+  rarity: 190
+}, {
+  id: 85,
+  rarity: 45
+}, {
+  id: 86,
+  rarity: 190
+}, {
+  id: 87,
+  rarity: 75
+}, {
+  id: 88,
+  rarity: 190
+}, {
+  id: 89,
+  rarity: 75
+}, {
+  id: 90,
+  rarity: 190
+}, {
+  id: 91,
+  rarity: 60
+}, {
+  id: 92,
+  rarity: 190
+}, {
+  id: 93,
+  rarity: 90
+}, {
+  id: 94,
+  rarity: 45
+}, {
+  id: 95,
+  rarity: 45
+}, {
+  id: 96,
+  rarity: 190
+}, {
+  id: 97,
+  rarity: 75
+}, {
+  id: 98,
+  rarity: 225
+}, {
+  id: 99,
+  rarity: 60
+}, {
+  id: 100,
+  rarity: 190
+}, {
+  id: 101,
+  rarity: 60
+}, {
+  id: 102,
+  rarity: 90
+}, {
+  id: 103,
+  rarity: 45
+}, {
+  id: 104,
+  rarity: 190
+}, {
+  id: 105,
+  rarity: 75
+}, {
+  id: 106,
+  rarity: 45
+}, {
+  id: 107,
+  rarity: 45
+}, {
+  id: 108,
+  rarity: 45
+}, {
+  id: 109,
+  rarity: 190
+}, {
+  id: 110,
+  rarity: 60
+}, {
+  id: 111,
+  rarity: 120
+}, {
+  id: 112,
+  rarity: 60
+}, {
+  id: 113,
+  rarity: 30
+}, {
+  id: 114,
+  rarity: 45
+}, {
+  id: 115,
+  rarity: 45
+}, {
+  id: 116,
+  rarity: 225
+}, {
+  id: 117,
+  rarity: 75
+}, {
+  id: 118,
+  rarity: 225
+}, {
+  id: 119,
+  rarity: 60
+}, {
+  id: 120,
+  rarity: 225
+}, {
+  id: 121,
+  rarity: 60
+}, {
+  id: 122,
+  rarity: 45
+}, {
+  id: 123,
+  rarity: 45
+}, {
+  id: 124,
+  rarity: 45
+}, {
+  id: 125,
+  rarity: 45
+}, {
+  id: 126,
+  rarity: 45
+}, {
+  id: 127,
+  rarity: 45
+}, {
+  id: 128,
+  rarity: 45
+}, {
+  id: 129,
+  rarity: 255
+}, {
+  id: 130,
+  rarity: 45
+}, {
+  id: 131,
+  rarity: 45
+}, {
+  id: 132,
+  rarity: 35
+}, {
+  id: 133,
+  rarity: 45
+}, {
+  id: 134,
+  rarity: 45
+}, {
+  id: 135,
+  rarity: 45
+}, {
+  id: 136,
+  rarity: 45
+}, {
+  id: 137,
+  rarity: 45
+}, {
+  id: 138,
+  rarity: 45
+}, {
+  id: 139,
+  rarity: 45
+}, {
+  id: 140,
+  rarity: 45
+}, {
+  id: 141,
+  rarity: 45
+}, {
+  id: 142,
+  rarity: 45
+}, {
+  id: 143,
+  rarity: 25
+}, {
+  id: 144,
+  rarity: 3
+}, {
+  id: 145,
+  rarity: 3
+}, {
+  id: 146,
+  rarity: 3
+}, {
+  id: 147,
+  rarity: 45
+}, {
+  id: 148,
+  rarity: 45
+}, {
+  id: 149,
+  rarity: 45
+}, {
+  id: 150,
+  rarity: 3
+}, {
+  id: 151,
+  rarity: 45
+}];

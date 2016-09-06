@@ -1,0 +1,25 @@
+{
+  "name": "pokerare",
+  "version": "0.1.0",
+  "description": "Pokemon Rarity Levels",
+  "license": "MIT",
+  "repository": "https://github.com/maierfelix/pokerare",
+  "author": {
+    "name": "Felix Maier",
+    "email": "maier.felix96@gmail.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "pokemon",
+    "pokemongo",
+    "pokemon-go",
+    "pokemon go",
+    "rare",
+    "rarity",
+    "level"
+  ],
+  "dependencies": {},
+  "scripts": {}
+}
